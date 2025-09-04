@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Fire-coin/Loaders/releases/download/v1.0.1/bin.zip",
-      "bin": "bin/bin/xmenu.exe",
+      "bin": "bin/xmenu.exe",
       "hash": "8244798213d6d369b23ce3f01cfa9da0b9744b123e82ad1314cb416937dd6634"
     }
   }
