@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "Menu selector of .exe files in current directory, with 2 prebuilt programs.",
+  "homepage": "https://github.com/Fire-coin/Loaders",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Fire-coin/Loaders/releases/download/v1.0.1/bin.zip",
+      "bin": "main.exe",
+      "hash": "sha256-HASH-HERE"
+    }
+  }
+}
