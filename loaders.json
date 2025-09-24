@@ -5,9 +5,9 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Fire-coin/Loaders/releases/download/v1.0.1/bin.zip",
+      "url": "https://github.com/Fire-coin/Loaders/releases/download/v1.0.1_fix/bin.zip",
       "bin": "bin/xmenu.exe",
-      "hash": "8244798213d6d369b23ce3f01cfa9da0b9744b123e82ad1314cb416937dd6634"
+      "hash": "ad26d06a94e2aeb8046dad110e94668a3d0650973bb2e649de3fd0c9ee0d1e48"
     }
   }
 }
